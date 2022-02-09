@@ -1,0 +1,1 @@
+# Directory responsible for containing everything related to our data

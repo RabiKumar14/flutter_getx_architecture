@@ -1,0 +1,1 @@
+# inside ex: final textTheme = TextTheme(headline1: TextStyle(color: colorCard))

@@ -1,0 +1,1 @@
+# Our classes, or data models responsible for abstracting our objects.

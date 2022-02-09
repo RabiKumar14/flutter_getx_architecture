@@ -1,0 +1,1 @@
+# inside ex: static final GlobalKey formKey = GlobalKey<FormState>();
